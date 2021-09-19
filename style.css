@@ -1,0 +1,22 @@
+.box{
+    width: 400px;
+    height: 200px;
+    border: 5px solid plum;
+
+    overflow: scroll;
+}
+
+
+.box2{
+    width: 400px;
+    height: 200px;
+    border: 2px solid rgb(106, 233, 2);
+    
+    visibility: hidden;
+}
+
+.pic img{
+
+    height: 100px;
+    width: 500px;
+}

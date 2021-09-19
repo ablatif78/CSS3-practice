@@ -1,0 +1,18 @@
+.box{
+
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+}
+
+.outer {
+
+    background-color: greenyellow;
+}
+
+.inner{
+    background-color: indianred;
+    transform: scale(.90) rotate(30deg) translateX(10px);
+   
+
+}
